@@ -1,9 +1,9 @@
 class Ya < Formula
   desc "A very simple automation tool for lazy folks that don't want to learn make"
   homepage "https://github.com/yhakbar/ya"
-  url "https://github.com/yhakbar/ya/archive/refs/tags/0.3.1.tar.gz"
-  version "0.3.1"
-  sha256 "1215675fa76064cfeb0536706ee26d4f0d56ca6250cd541a02a195857da1954a"
+  url "https://github.com/yhakbar/ya/archive/refs/tags/0.4.0.tar.gz"
+  version "0.4.0"
+  sha256 "5962115edbecb3dca64fb39fb19448952b75f1f651b51b0676a52e55c4b64c0d"
 
   depends_on "rust" => :build
 
