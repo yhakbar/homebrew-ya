@@ -3,7 +3,7 @@ class Ya < Formula
   homepage "https://github.com/yhakbar/ya"
   url "https://github.com/yhakbar/ya/archive/refs/tags/0.6.0.tar.gz"
   version "0.6.0"
-  sha256 "0eb2615fa33c2bcfe3e118eac3834a22e76fa319362c34233234869240cf8d36"
+  sha256 "20a7a96c4a5e946ff99c9b2322666634b6eeb26b900f299454b55311f7ac9a48"
 
   depends_on "rust" => :build
 
